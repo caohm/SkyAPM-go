@@ -1,19 +1,16 @@
-SkyWalking GO SDK
+SkyAPM GO SDK
 ==========
 
-<img src="https://skywalkingtest.github.io/page-resources/3.0/skywalking.png" alt="Sky Walking logo" height="90px" align="right" />
-
-SkyWalking GO SDK is the Go SDK for Apache SkyWalking(Incubating) APM.
+SkyAPM GO SDK is the Go SDK for Apache SkyWalking(Incubating) APM.
 
 [![Build Status](https://travis-ci.org/OpenSkywalking/skywalking-go.svg?branch=master)](https://travis-ci.org/OpenSkywalking/skywalking-go)
 
 ## Notice
-- Supported by [Apache SkyWalking(Incubating)](https://github.com/apache/incubator-skywalking) original creator and current PMC team.
 - Inspired by [Zipkin GO library](https://github.com/openzipkin/zipkin-go)
 and got helps from its maintainers: [Bas van Beek](https://github.com/basvanbeek) and [José Carlos Chávez](https://github.com/jcchavezs).
 
 ## Abstract
-SkyWalking GO SDK follow SkyWalking's [data collector protocol](https://github.com/apache/incubator-skywalking-data-collect-protocol),
+SkyAPM GO SDK follow SkyWalking's [data collector protocol](https://github.com/apache/incubator-skywalking-data-collect-protocol),
 collect traces in GO application.
 
 ## Contribution
