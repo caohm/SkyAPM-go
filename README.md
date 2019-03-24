@@ -1,5 +1,7 @@
-SkyAPM GO SDK
+~~SkyAPM GO SDK~~
 ==========
+
+**This project has been abandoned.**
 
 SkyAPM GO SDK is the Go SDK for Apache SkyWalking(Incubating) APM.
 
